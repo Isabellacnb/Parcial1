@@ -1,0 +1,30 @@
+* {
+  background-color: bisque;
+}
+
+img {
+  width: 50%;
+  border: double 5px;
+}
+
+h2 {
+  text-align: center;
+  margin: 40px;
+}
+
+h4 {
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+li {
+  margin: 20px;
+}
